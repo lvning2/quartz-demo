@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: quartz-demo
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: 123456
+    url: jdbc:mysql://127.0.0.1:3306/quartz-demo?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Shanghai
+    username: root
+
+
+
+
